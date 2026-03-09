@@ -36,7 +36,7 @@ The project demonstrates:
 5. Complete the activity to practice English vocabulary.
 ## Features
 The application includes several learning modules:
-1.Crossword
+1. Crossword
 - Solve crossword puzzles using English vocabulary.
 2. Spelling
 - Practice spelling words correctly.
